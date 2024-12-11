@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277524838099",
+    "project_id": "qais-61f32",
+    "storage_bucket": "qais-61f32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277524838099:android:e1268375294a78abc10626",
+        "android_client_info": {
+          "package_name": "com.example.factor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqfrHi8ygkDZd9m3Z5blURMANtW3mFPeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
